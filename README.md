@@ -1,4 +1,4 @@
-# yumprint
+# yumprint(Food receipt app)
 
 A new Flutter project.
 
